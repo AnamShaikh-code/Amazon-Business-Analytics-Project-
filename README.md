@@ -9,13 +9,16 @@ Identify top-performing products and categories
 Evaluate customer and regional performance
 Analyze payment methods and discounts
 Generate actionable business insights
+
+
 🛠️ Tech Stack
 Python
+Excel
 Pandas
 NumPy
 Matplotlib
-Seaborn
-Jupyter Notebook
+
+
 📊 Key Analysis
 Sales & Revenue Analysis
 Product & Category Performance
@@ -24,12 +27,14 @@ State-wise Sales Analysis
 Monthly Sales Trends
 Payment Method Analysis
 Business Recommendations
+
 📈 Key Insights
 Identified top-performing products and categories.
 Analyzed customer purchasing patterns and payment preferences.
 Evaluated regional sales performance.
 Measured the impact of discounts on revenue.
 Provided data-driven business recommendations.
+
 🚀 Skills Demonstrated
 Data Cleaning
 Exploratory Data Analysis (EDA)
@@ -37,8 +42,3 @@ Data Visualization
 Business Analytics
 Business Intelligence
 Python Programming
-
-
-A more professional request would be:
-
-"Please create a concise and informative GitHub README for my Amazon
